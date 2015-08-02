@@ -1,10 +1,10 @@
 # Java 8 Demo
 Multimodule Maven project where just a single module depends on JDK 8.
 
-It's a blueprint for a project which has to work with JDK 6, but still wants to offer goodies of modern Java development where running on Java8.
+It's a blueprint for a project which has to work with JDK 6, but still wants to offer goodies of modern Java development when running on Java8.
 
 Usage:
-- Make sure you have Java8 installed and configured to use
+- Make sure you have JDK8 installed and configured to use
 - run `mvn clean install` to install this project into your local Maven repository
 - Create a new project and add this as a dependency:
 ```xml
